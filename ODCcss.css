@@ -1,9 +1,6 @@
-h1 {
-	color: white; 
-	outline-color: black;
+body{
+	background-image: url("odc.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
-body {
-background-color: #143804
-
-	}
-dafaqreqerq
